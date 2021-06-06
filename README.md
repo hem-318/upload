@@ -9,7 +9,7 @@ Upload script
 
 > Set up everything automatically from scratch 
 
-> Currently [G-drive](https://drive.google.com/drive/my-drive)  [Mega](http://mega.nz/) And [Android file host ](https://androidfilehost.com/) are supported
+> Currently [G-drive](https://drive.google.com/drive/my-drive) , [Mega](http://mega.nz/) And [Android file host ](https://androidfilehost.com/) are supported
 
 --------------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Run the script using-
 
 `sudo bash upload-ice.sh`
 
-================================================================================
+--------------------------------------------------------------------------------
 
 #### Made with <3 and Bash by [Icecrac34r_hem](https://github.com/icecrac34r) ####
 
